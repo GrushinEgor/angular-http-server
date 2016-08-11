@@ -1,5 +1,5 @@
 # Angular-HTTP-Server
-
+Fork with changes: Add svg mime-type. Add 404 error for *.ng.* files
 ## Rationale
 
 Very simple server that returns a file if it exists, or 'index.html' otherwise (i.e. when the url requested is actually a SPA route).
